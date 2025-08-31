@@ -1,0 +1,2 @@
+devcon hwids *
+
